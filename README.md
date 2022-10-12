@@ -1,1 +1,1 @@
-# clean-chat-samples
+# Gaming Specialist Team Samples / Demos
